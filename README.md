@@ -37,25 +37,12 @@ Become a versatile **AI Engineer** who can take an idea from concept → intelli
 ## 🌐 Socials
  
 <p>
-<a href="https://bsky.app/profile/Hexecutionerr" target="_blank"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" /></a>
-<a href="https://leetcode.com/u/hayxdenn/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/hasnain-khan-0ab3b2320" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hasnain.khan.ce@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hasnain-khan-0ab3b2320" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/hayxdenn/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 ---
  
-## 🛠️ Skills Snapshot
- 
-<!-- <div align="center">
-|  Programming  |     Back-End & Cloud    |        Exploring       |
-| :-----------: | :----------------------: | :---------------------: |
-|      Java     |        Node.js · Express |   AI/ML · RAG    |
-|     Python    |     MongoDB · PostgreSQL |    System Design       |
-|   JavaScript  |         Firebase · Redis |  Data Analytics |
-| HTML · CSS  |   REST APIs · Docker     |    CI/CD · Cloud            |
- 
-</div>
---- -->
 ## 🛠️ Skills Snapshot
 
 | Programming | Back-End & Cloud | Exploring |
@@ -95,7 +82,7 @@ Become a versatile **AI Engineer** who can take an idea from concept → intelli
 <table>
 <tr>
 <td width="50%" valign="top">
-### Bastain — AI Food Delivery Platform
+## Bastain — AI Food Delivery Platform
  
 Production-ready MERN app with Redis caching, Socket.io live order tracking, Stripe payments, and a Google Gemini AI engine that turns natural language into MongoDB search filters.
  
@@ -103,7 +90,7 @@ Production-ready MERN app with Redis caching, Socket.io live order tracking, Str
  
 </td>
 <td width="50%" valign="top">
-### AL Huda — ERP Billing & Invoicing
+## AL Huda — ERP Billing & Invoicing
  
 Full-stack ERP platform for invoice creation, payment tracking, and customer management, with server-side PDF generation cutting latency by ~78%.
  
@@ -113,7 +100,7 @@ Full-stack ERP platform for invoice creation, payment tracking, and customer man
 </tr>
 <tr>
 <td width="50%" valign="top">
-### Disney Yatra — Tourism Booking Platform
+## Disney Yatra — Tourism Booking Platform
  
 Responsive tourism booking platform built during my internship — package browsing, inquiry forms, booking workflows, and an admin content management module.
  
@@ -121,7 +108,7 @@ Responsive tourism booking platform built during my internship — package brows
  
 </td>
 <td width="50%" valign="top">
-### Database Systems Training
+## Database Systems Training
  
 60-hour intensive program covering MySQL & MongoDB — schema design, indexing, query optimization, and backend integration via mini-projects.
  
