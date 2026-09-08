@@ -10,6 +10,7 @@ build · deploy · scale
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=3&section=header" width="75%"/>
 </div>
+
 ## 👨‍💻 About Me
  
 I'm a **Full-Stack Developer** and **AI Engineer in the making**, currently pursuing a **B.Tech in Computer Engineering at Vidyalankar Institute of Technology (VIT)**.
