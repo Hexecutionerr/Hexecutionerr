@@ -152,7 +152,13 @@ CGPA: **8.5 / 10.0** &nbsp;|&nbsp; 2023 – 2027
 <img src="https://streak-stats.demolab.com/?user=Hexecutionerr&theme=vue&hide_border=true" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hexecutionerr&theme=vue&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </div>
+
 ## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hexecutionerr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
  
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Hexecutionerr&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
