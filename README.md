@@ -159,15 +159,11 @@ Responsive tourism booking platform built during my internship — package brows
 | DB & Backend Training | CDAC / USM, Mumbai | Jun 2025 |
  
 ---
- 
 ## 🎓 Education
 
-| Degree | Institution | Duration |
-| :--- | :--- | :--- |
-| B.Tech — Computer Engineering (Minor: AI & ML · Honours: Data Science) | Vidyalankar Institute of Technology, Mumbai | 2023 – 2027 |
-
-**CGPA: 8.5 / 10.0**
- 
+| Degree | Institution | Honours | Minor | Duration | CGPA |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| B.Tech — Computer Engineering | Vidyalankar Institute of Technology, Mumbai | Data Science | AI & ML | 2023 – 2027 | 8.5 / 10.0 |
 ---
  
 ## 📊 GitHub Stats
