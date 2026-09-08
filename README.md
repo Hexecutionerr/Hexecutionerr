@@ -46,7 +46,7 @@ Become a versatile **AI Engineer** who can take an idea from concept → intelli
  
 ## 🛠️ Skills Snapshot
  
-<div align="center">
+<!-- <div align="center">
 |  Programming  |     Back-End & Cloud    |        Exploring       |
 | :-----------: | :----------------------: | :---------------------: |
 |      Java     |        Node.js · Express |   AI/ML · RAG    |
@@ -55,7 +55,15 @@ Become a versatile **AI Engineer** who can take an idea from concept → intelli
 | HTML · CSS  |   REST APIs · Docker     |    CI/CD · Cloud            |
  
 </div>
----
+--- -->
+## 🛠️ Skills Snapshot
+
+| Programming | Back-End & Cloud | Exploring |
+|:---|:---|:---|
+| Java | Node.js · Express | AI/ML · RAG |
+| Python | MongoDB · PostgreSQL | System Design |
+| JavaScript | Firebase · Redis | Data Analytics |
+| HTML · CSS | REST APIs · Docker | CI/CD · Cloud |
  
 ## 💻 Tech Stack
  
