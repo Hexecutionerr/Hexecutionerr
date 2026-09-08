@@ -138,10 +138,12 @@ Responsive tourism booking platform built during my internship — package brows
 ---
  
 ## 🎓 Education
- 
-**B.Tech — Computer Engineering** (Minor: AI & ML · Honours: Data Science)
-Vidyalankar Institute of Technology, Mumbai
-CGPA: **8.5 / 10.0** &nbsp;|&nbsp; 2023 – 2027
+
+| Degree | Institution | Duration |
+| :--- | :--- | :--- |
+| B.Tech — Computer Engineering (Minor: AI & ML · Honours: Data Science) | Vidyalankar Institute of Technology, Mumbai | 2023 – 2027 |
+
+**CGPA: 8.5 / 10.0**
  
 ---
  
@@ -154,21 +156,18 @@ CGPA: **8.5 / 10.0** &nbsp;|&nbsp; 2023 – 2027
 </div>
 
 ## 🏆 GitHub Trophies
-## 🏆 GitHub Achievements
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hexecutionerr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
  
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Hexecutionerr&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
+
 ## 📈 Contributions
  
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hexecutionerr&bg_color=00000000&color=2E9EF7&line=1C6DBF&point=6699CC&area=true&hide_border=true" width="95%"/>
 </div>
 ---
+
  
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D6E9FF&height=3&section=footer" width="75%"/>
