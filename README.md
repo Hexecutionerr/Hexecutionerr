@@ -3,8 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&font=Playfair%20Display&fontColor=2E9EF7&text=Hasnain%20Khan&fontSize=44&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20in%20the%20Making&descSize=16&descAlignY=72&descColor=6699CC&width=700" width="700"/>
 </a>
 <p>
-build · deploy · scale
+樱花 · 学习 · 创造 · 成长
 </p>
+
 <p>
 <strong>Learn · Build · Ship</strong>
 </p>
