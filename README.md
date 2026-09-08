@@ -12,6 +12,29 @@ build · deploy · scale
 </div>
 
 ## 👨‍💻 About Me
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Developer** and **AI Engineer in the making**, currently pursuing a **B.Tech in Computer Engineering at Vidyalankar Institute of Technology (VIT)**.
+
+I enjoy turning ideas into **real-world, scalable applications** and constantly expanding my engineering toolkit — from **MERN stack & backend systems** to **AI/ML, RAG, CI/CD, cloud technologies, and data analytics**. I'm someone who adapts quickly to new technologies and prefers learning by **building, experimenting, and solving real problems**.
+
+🎯 **Currently focused on:**
+Building strong expertise at the intersection of **Full-Stack Development + Artificial Intelligence**, while strengthening my foundations in **Data Analytics, AI/ML, system design, and modern software engineering practices**.
+
+📚 **Academic Focus:**
+- 🎓 B.Tech — Computer Engineering
+- 🧠 Minor — Artificial Intelligence & Machine Learning
+- 📊 Honours — Data Science
+
+🚀 I'm currently exploring opportunities where I can **build meaningful products, gain real-world engineering experience, and grow alongside strong teams**, while also taking on selected freelance and independent projects.
+
+🔭 **Long-Term Goal:**
+Become a versatile **AI Engineer** who can take an idea from concept → intelligent backend → production-ready application, combining software engineering, AI, and data to build products that are actually useful.
+
+> 一步一步，向前走
+> *Step by step, moving forward.*
+
+---
  
 I'm a **Full-Stack Developer** and **AI Engineer in the making**, currently pursuing a **B.Tech in Computer Engineering at Vidyalankar Institute of Technology (VIT)**.
  
