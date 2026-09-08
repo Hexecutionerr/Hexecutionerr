@@ -177,8 +177,6 @@ Responsive tourism booking platform built during my internship — package brows
  
 <br><br>
  
-[![](https://komarev.com/ghpvc/?username=Hexecutionerr&icon=0&color=0)](https://visitcount.itsvg.in)
- 
 </div>
  
 
