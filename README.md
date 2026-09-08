@@ -38,7 +38,9 @@ Become a versatile **AI Engineer** who can take an idea from concept → intelli
  
 <p>
 <a href="mailto:hasnain.khan.ce@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
 <a href="https://www.linkedin.com/in/hasnain-khan-0ab3b2320" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <a href="https://leetcode.com/u/hayxdenn/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 ---
