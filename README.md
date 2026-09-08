@@ -118,6 +118,57 @@ Responsive tourism booking platform built during my internship — package brows
 </tr>
 </table>
 ---
+
+
+## 🔥 Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Bastain — AI Food Delivery Platform
+
+Production-ready MERN app with Redis caching, Socket.io live order tracking, Stripe payments, and a Google Gemini AI engine that turns natural language into MongoDB search filters.
+
+`React` · `Node.js` · `MongoDB` · `Redis` · `Gemini AI` · `Stripe`
+
+</td>
+<td width="50%" valign="top">
+
+### AL Huda — ERP Billing & Invoicing
+
+Full-stack ERP platform for invoice creation, payment tracking, and customer management, with server-side PDF generation cutting latency by ~78%.
+
+`React` · `Redux` · `Node.js` · `JWT` · `HTML-PDF`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Disney Yatra — Tourism Booking Platform
+
+Responsive tourism booking platform built during my internship — package browsing, inquiry forms, booking workflows, and an admin content management module.
+
+`React` · `Node.js` · `Express` · `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### Database Systems Training
+
+60-hour intensive program covering MySQL & MongoDB — schema design, indexing, query optimization, and backend integration via mini-projects.
+
+`MySQL` · `MongoDB` · `Database Design`
+
+</td>
+</tr>
+</table>
+
+---
+
+
+
  
 ## 💼 Experience
  
